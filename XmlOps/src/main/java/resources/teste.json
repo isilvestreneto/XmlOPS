@@ -1,0 +1,17 @@
+{
+  "aluno": {
+    "nome": "João",
+    "idade": 20,
+    "curso": "Engenharia de Software",
+    "disciplinas": [
+      {
+        "nome": "Programação",
+        "codigo": 10
+      },
+      {
+        "nome": "Banco de Dados",
+        "codigo": 9
+      }
+    ]
+  }
+}

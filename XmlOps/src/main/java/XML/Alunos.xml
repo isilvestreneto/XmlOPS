@@ -5,15 +5,19 @@
         <disciplinas>
             <disciplina>
                 <nome>Sistemas Operacionais</nome>
+                <codigo>S150P3R</codigo>
             </disciplina>
             <disciplina>
                 <nome>Redes de computadores</nome>
+                <codigo>R3DDC0M</codigo>
             </disciplina>
             <disciplina>
                 <nome>Programacao OO</nome>
+                <codigo>PR0G400</codigo>
             </disciplina>
             <disciplina>
                 <nome>Java X</nome>
+                <codigo>J4VXAV0</codigo>
             </disciplina>
         </disciplinas>
     </aluno>
@@ -21,6 +25,7 @@
         <disciplinas>
             <disciplina>
                 <nome>Topicos em CC</nome>
+                <codigo>T0P13CC</codigo>
             </disciplina>
         </disciplinas>
     </aluno>
@@ -28,18 +33,23 @@
         <disciplinas>
             <disciplina>
                 <nome>Processo de Sw</nome>
+                <codigo>PR0C355SW</codigo>
             </disciplina>
             <disciplina>
                 <nome>Qualidade de Sw</nome>
+                <codigo>QL1D4DDSW</codigo>
             </disciplina>
             <disciplina>
                 <nome>Redes de computadores</nome>
+                <codigo>R3D5DC0M</codigo>
             </disciplina>
             <disciplina>
                 <nome>Algoritmos</nome>
+                <codigo>A1G0RTM05</codigo>
             </disciplina>
             <disciplina>
                 <nome>Estrutura de dados</nome>
+                <codigo>3STTD4D05</codigo>
             </disciplina>
         </disciplinas>
     </aluno>
@@ -47,16 +57,21 @@
         <disciplinas>
             <disciplina>
                 <nome>Banco de dados 1</nome>
+                <codigo>BD1C0D3</codigo>
             </disciplina>
             <disciplina>
                 <nome>Banco de dados 2</nome>
+                <codigo>BD2C0D3</codigo>
             </disciplina>
             <disciplina>
                 <nome>Analise de algoritmos</nome>
+                <codigo>AN4L1S3</codigo>
             </disciplina>
             <disciplina>
                 <nome>Teoria da computacao</nome>
+                <codigo>T3OR1AC</codigo>
             </disciplina>
         </disciplinas>
     </aluno>
 </lista_alunos>
+
